@@ -1,0 +1,51 @@
+Comandos utilizados para este examen:
+
+  202  git init
+  203  git remote add origin https://github.com/tatylenis/20230605-IngridLenis.git
+  204  git remote -v
+  205  touch comandos.txt
+  206  touch main.js
+  207  touch index.html
+  208  git commit -m "commit 01 de ingridLenis"
+  209  git push -u origin main
+  210  git add .
+  211  git status
+  212  git push -u origin main
+  213  git pull origin main
+  214  git status
+  215  git commit -m "commit 01 de ingridLenis"
+  216  git push -u origin main
+  217  git branch feature01
+  218  git checkout feature01
+  219  mkdir Terminal
+  220  mkdir Hardware
+  221  cd Terminal/
+  222  touch resumen.txt
+  223  cd ..
+  224  cd Hardware/
+  225  touch resumen.txt
+  226  git add .
+  227  git status
+  228  cd ..
+  229  git add .
+  230  git status
+  231  git commit -m "commit 02 de ingridLenis"
+  232  git status
+  233  git push origin feature01
+  234  git branch feature02
+  235  git checkout feature02
+  236  git add .
+  237  git status
+  238  git commit -m "commit 03 de ingridLenis"
+  239  git status
+  240  git push origin feature02
+  241  git status
+  242  git push -u origin feature02
+  243  git add .
+  244  git commit -m "commit 03 de ingridLenis"
+  245  git status
+  246  git push origin feature02
+  247  git checkout main
+  248  mv comandos.txt comandosUtilizados.txt
+  249  git history
+  250  history
