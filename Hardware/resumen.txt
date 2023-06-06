@@ -1,0 +1,5 @@
+3 partes internas de la computadora:
+
+1. Procesador (CPU): Es el componente principal de la computadora que ejecuta las instrucciones y realiza los cálculos. Es responsable de procesar y ejecutar tareas.
+2. Memoria RAM: Es donde se almacenan los datos y las instrucciones que se están utilizando en tiempo real. Es una memoria de acceso rápido que permite el acceso rápido a la información por parte del procesador.
+3. Disco duro: Es el dispositivo de almacenamiento principal de la computadora. Almacena de forma permanente los datos, programas y archivos en un formato no volátil, lo que significa que la información se mantiene cuando se apaga la computadora.

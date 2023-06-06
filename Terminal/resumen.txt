@@ -1,0 +1,7 @@
+5 Comandos de git aprendidos en clase:
+
+1. git init: Inicializa un repositorio de Git en un directorio local.
+2. git clone <URL del repositorio>: Clona un repositorio existente desde un servidor remoto al directorio local.
+3. git add <nombre del archivo>: Agrega un archivo específico al área de preparación para ser incluido en el próximo commit.
+4. git commit -m "Mensaje del commit": Realiza un commit con los cambios agregados en el área de preparación y asigna un mensaje descriptivo.
+5. git push: Envía los commits locales al repositorio remoto.
